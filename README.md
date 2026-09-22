@@ -226,6 +226,12 @@ Building CloudLatch gave me hands-on experience with:
 - Introduce application metrics and observability
 - Use remote Terraform state for a deployed environment
 
+## Documentation
+
+A detailed technical report covering the system architecture, containerisation, CI/CD pipeline, Infrastructure as Code, LocalStack environment, testing and development challenges is available below.
+
+[View the CloudLatch Technical Report](docs/CloudLatch-Technical-Report.pdf)
+
 ## License
 
 MIT License
